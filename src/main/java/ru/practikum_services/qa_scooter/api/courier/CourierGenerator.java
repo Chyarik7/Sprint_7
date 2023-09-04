@@ -1,4 +1,4 @@
-package org.example;
+package ru.practikum_services.qa_scooter.api.courier;
 
 import org.apache.commons.lang3.RandomStringUtils;
 

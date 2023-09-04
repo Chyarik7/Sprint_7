@@ -1,10 +1,12 @@
-import org.example.CourierGenerator;
-import org.example.CourierCredentials;
-import org.example.CourierAction;
+package ru.practikum_services.qa_scooter.api.courier_test;
+
+import ru.practikum_services.qa_scooter.api.courier.CourierGenerator;
+import ru.practikum_services.qa_scooter.api.courier.CourierCredentials;
+import ru.practikum_services.qa_scooter.api.courier.CourierAction;
 import io.restassured.response.ValidatableResponse;
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
-import org.example.Courier;
+import ru.practikum_services.qa_scooter.api.courier.Courier;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

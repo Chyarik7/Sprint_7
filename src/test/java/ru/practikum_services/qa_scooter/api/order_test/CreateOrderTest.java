@@ -1,6 +1,8 @@
-import org.example.Order;
+package ru.practikum_services.qa_scooter.api.order_test;
+
+import ru.practikum_services.qa_scooter.api.order.Order;
 import org.junit.Before;
-import org.example.OrderAction;
+import ru.practikum_services.qa_scooter.api.order.OrderAction;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.Test;

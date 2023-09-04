@@ -1,4 +1,4 @@
-package org.example;
+package ru.practikum_services.qa_scooter.api.order;
 
 public class Order {
     private String firstName;

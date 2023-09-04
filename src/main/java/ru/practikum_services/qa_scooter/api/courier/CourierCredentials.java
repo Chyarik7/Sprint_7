@@ -1,4 +1,4 @@
-package org.example;
+package ru.practikum_services.qa_scooter.api.courier;
 
 public class CourierCredentials {
     private String login;

@@ -1,4 +1,6 @@
-import org.example.OrderAction;
+package ru.practikum_services.qa_scooter.api.order_test;
+
+import ru.practikum_services.qa_scooter.api.order.OrderAction;
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;

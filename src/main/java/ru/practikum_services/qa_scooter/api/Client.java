@@ -1,4 +1,4 @@
-package org.example;
+package ru.practikum_services.qa_scooter.api;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;

@@ -1,7 +1,8 @@
-package org.example;
+package ru.practikum_services.qa_scooter.api.courier;
 
 import io.restassured.response.ValidatableResponse;
 import io.qameta.allure.Step;
+import ru.practikum_services.qa_scooter.api.Client;
 
 import static io.restassured.RestAssured.given;
 
